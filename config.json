@@ -1,0 +1,17 @@
+{
+  "model": "gpt-image-1.5",
+  "input_fidelity": "high",
+  "quality": "high",
+  "output_format": "jpeg",
+  "output_compression": 94,
+  "floor_start_ratio": 0.64,
+  "vehicle_mask_padding_px": 34,
+  "mask_feather_px": 5,
+  "tone_finish": {
+    "enabled": true,
+    "max_brightness_change": 0.04,
+    "contrast": 1.02,
+    "colour": 1.02,
+    "sharpness": 1.02
+  }
+}
